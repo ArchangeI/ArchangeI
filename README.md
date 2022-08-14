@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArchangeI
-- 👀 I’m interested in programing and game engines
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m .Net developer
 - 📫 To get in touch with me (catsoffin@gmail.com)
 
 <!---
